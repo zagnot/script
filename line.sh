@@ -4,7 +4,7 @@
 #lunch
 blkilunch lavender user
 
-make installclean
+#make installclean
 
 #bacon
 blki b
