@@ -2,4 +2,6 @@
 
 . build/envsetup.sh
 
-time brunch lavender
+lunch aicp_lavender-ap2a-user
+
+m bacon
