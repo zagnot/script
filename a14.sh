@@ -2,4 +2,4 @@
 
 . build/envsetup.sh
 
-brunch
+time brunch lavender
