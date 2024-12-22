@@ -4,7 +4,7 @@
 . build/envsetup.sh
 
 # lunch
-lunch lineage_lavender-userdebug
+#lunch lineage_lavender-userdebug
 
 # build
-m bacon
+brunch lavender
